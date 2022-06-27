@@ -39,9 +39,9 @@ func simulate(numWeeks int, numIslands int) []int {
 			proposal = 0
 		}
 
-		// move if propability is higher then random number int the interval [0.0,1.0)
-		propabilityMove := float32(proposal+1) / float32(current)
-		if rand.Float32() < propabilityMove {
+		// move if probability is higher then random number int the interval [0.0,1.0)
+		probabilityMove := float32(proposal+1) / float32(current)
+		if rand.Float32() < probabilityMove {
 			current = proposal
 		}
 	}
