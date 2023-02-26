@@ -1,5 +1,7 @@
 # Markov Chain Monte Carlo (MCMC) Simulation with Metropolis Algorithm
 
+<p align="center"><img src="islands1.png" width="300"></p>
+
 ## Introduction
 
 This is an implementation of the MCMC simulation with Metropolis algorithm example from the Statistical Rethinking [1] book (chapter 9.1 page 265) in Go.
