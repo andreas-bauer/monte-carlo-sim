@@ -1,6 +1,6 @@
 # Markov Chain Monte Carlo (MCMC) Simulation with Metropolis Algorithm
 
-<p align="center"><img src="islands1.png" width="300"></p>
+<p align="center"><img src="islands1.png" width="400"></p>
 
 ## Introduction
 
