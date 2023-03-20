@@ -1,4 +1,4 @@
-module github.com/andreasbauer/monte-carlo-sim
+module github.com/andreas-bauer/monte-carlo-sim
 
 go 1.20
 
